@@ -1,0 +1,4 @@
+interface:
+  display_name: "Official English Translation"
+  short_description: "Official EN translation with company terminology"
+  default_prompt: "Use $official-english-translation to translate this brochure, PPT, or case study into polished official English."

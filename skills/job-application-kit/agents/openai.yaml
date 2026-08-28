@@ -1,0 +1,4 @@
+interface:
+  display_name: "求职软件四件套"
+  short_description: "根据岗位JD生成分段话术、匹配分析与简历推荐"
+  default_prompt: "使用 $job-application-kit 根据这份JD直接输出文字版岗位分析、分段投递话术和主备简历推荐，不创建岗位文件夹。"

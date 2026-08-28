@@ -1,0 +1,4 @@
+interface:
+  display_name: "X-Humanoid 汇报PPT"
+  short_description: "使用公司模板与数据表达库生成内外部述职和汇报PPT"
+  default_prompt: "Use $build-x-humanoid-presentations to create an X-Humanoid internal or external presentation from my source materials."
